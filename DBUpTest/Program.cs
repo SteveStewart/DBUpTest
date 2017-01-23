@@ -10,6 +10,7 @@ namespace DBUpTest
     {
         static void Main(string[] args)
         {
+            //test
         }
     }
 }
