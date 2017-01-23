@@ -1,0 +1,1 @@
+﻿& .\DBUpTest.exe | Write-Host

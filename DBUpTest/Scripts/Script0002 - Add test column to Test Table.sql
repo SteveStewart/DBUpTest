@@ -1,0 +1,13 @@
+﻿SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+IF COL_LENGTH('Test','TestValue') IS NULL
+BEGIN
+ALTER TABLE Test
+ADD TestValue nvarchar(100)
+
+END
