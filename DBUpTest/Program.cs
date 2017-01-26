@@ -13,7 +13,7 @@ namespace DBUpTest
     /// Please note SQL scripts need to be marked as embedded not the default content.
     /// Used this https://octopus.com/blog/howto/deploy-a-sql-database
     /// and this http://docs.octopusdeploy.com/display/OD/SQL+Server+databases
-    /// </summary>
+    /// </summary> 
     class Program
     {
         static int Main(string[] args)
